@@ -1,4 +1,4 @@
-# Klasifikasi Gambar Buah dengan CNN  
+# Klasifikasi Gambar Buah
 Repositori ini merupakan bagian dari **proyek akhir Belajar Pengembangan Machine Learning** untuk membangun model klasifikasi gambar menggunakan **Convolutional Neural Network (CNN)**. Fokus utama proyek ini adalah mengenali dan mengklasifikasikan berbagai jenis buah berdasarkan gambar.
 
 ---
