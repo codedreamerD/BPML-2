@@ -53,7 +53,7 @@ Ikuti langkah-langkah berikut:
 
 ## Hasil
 
-Model berhasil dilatih hingga mencapai akurasi tinggi pada data uji. Visualisasi kurva akurasi dan loss menunjukkan proses pelatihan yang stabil dan minim overfitting.
+Model berhasil dilatih hingga mencapai akurasi tinggi pada data uji. Visualisasi kurva akurasi dan loss menunjukkan proses pelatihan yang stabil.
 
 ---
 
